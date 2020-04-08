@@ -9,7 +9,7 @@ I've created this app to bring awareness among my fellow citizens in Indian Nati
 2. Indian Government's Ministry of Health's notifications: https://www.mohfw.gov.in/
 <br>This updates citizens of what is currently happening. No Misinformations whatsoever in the Application interface. Clean application.
 ### IN APP Content:
-<img src="https://github.com/E-B-Manohar/CoronaVirus/blob/master/COV_IN_APK.jpg" height="300">
+<img src="https://github.com/E-B-Manohar/CoronaVirus/blob/master/COV_IN_APK.jpg" height="600">
 
 <br>Though I'm not an android app programer, I've used a free web application: http://appinventor.mit.edu/
 <br>'AppInventor' allows us to create android applications using block programming. 
@@ -22,4 +22,5 @@ I've created this app to bring awareness among my fellow citizens in Indian Nati
 This Android application displays the web page that contains the near-real time corona virus cases accross various countries by the 
 website:
 https://www.worldometers.info/coronavirus/#countries
-<img src="https://github.com/E-B-Manohar/CoronaVirus/blob/master/track_covid_19_apk.jpg" height="300">
+<br>
+<img src="https://github.com/E-B-Manohar/CoronaVirus/blob/master/track_covid_19_apk.jpg" height="600">
