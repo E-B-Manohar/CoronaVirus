@@ -1,5 +1,5 @@
 # CoronaVirus Data Analysis
-
+As on <DATE>
 
 # Android Applications
 ## COV_IN.APK
@@ -22,5 +22,5 @@ I've created this app to bring awareness among my fellow citizens in Indian Nati
 This Android application displays the web page that contains the near-real time corona virus cases accross various countries by the 
 website:
 https://www.worldometers.info/coronavirus/#countries
-<br>
+### IN APP Content:
 <img src="https://github.com/E-B-Manohar/CoronaVirus/blob/master/track_covid_19_apk.jpg" height="600">
