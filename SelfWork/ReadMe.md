@@ -1,1 +1,2 @@
-<iframe seamless frameborder="0" src="https://prod-apsoutheast-a.online.tableau.com/t/covid19in/views/COVID19_IN/Dashboard1/john.tableau.2020@gmail.com/6eb7e6fa-da41-4c43-af6a-22ec947422e4?:display_count=n&:showVizHome=n&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>   
+<iframe src="https://public.tableau.com/profile/babji.e.manohar#!/vizhome/COV_IN/Dashboard1" width = '650' height = '450'></iframe>
+
