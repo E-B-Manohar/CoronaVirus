@@ -2,7 +2,7 @@
 As on <DATE>
 https://public.tableau.com/views/COV_IN/COVID19_Dashboard?:display_count=y&:origin=viz_share_link
 
-<img src="https://github.com/E-B-Manohar/CoronaVirus/blob/master/SelfWork/COVID19_Dashboard.png" height ="600">
+<img src="https://github.com/E-B-Manohar/CoronaVirus/blob/master/SelfWork/COVID19_Dashboard.png" height ="500">
 
 
 # Android Applications
