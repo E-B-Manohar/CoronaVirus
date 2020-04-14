@@ -1,8 +1,8 @@
 # CoronaVirus Data Analysis
 As on <DATE>
-  
+https://public.tableau.com/views/COV_IN/COVID19_Dashboard?:display_count=y&:origin=viz_share_link
 
-<img src="https://public.tableau.com/views/COV_IN/COVID19_Dashboard?:display_count=y&:origin=viz_share_link" height ="800">
+<img src="https://github.com/E-B-Manohar/CoronaVirus/blob/master/SelfWork/COVID19_Dashboard.png" height ="800">
 
 
 # Android Applications
